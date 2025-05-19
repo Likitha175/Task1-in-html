@@ -1,0 +1,58 @@
+# Task1 in html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Web Development</h1>
+    <p>web development is the process of creating the  maintaining websites or web applications.in web development there are few sub developments.they are</p>
+    <h2>front-end development</h2>
+    <p>In front-end development to designing and coding the user interface using HTML,CSS,JAVASCRIPT</p>
+    <h3>Back-end development</h3>
+    <p>Creating the server side logic,databases,and API's the power of website or app using languages like python,java,.net, etc...</p>
+    <h4>Full stack development</h4>
+    <p>In full stack development both  front-end and Back-end skills to build the complete web solutions.</p>
+    <h5>Full stack Python</h5>
+    <h6>Full stack Java</h6>
+</body>
+</html>
+body{
+    margin: 15px;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: cornflowerblue;
+    text-align: center;
+}
+h1{
+    color: greenyellow;
+    font-style: italic;
+}
+p{
+    color:black;
+    font-style: italic;
+}
+h2{
+    color:aqua;
+    font-style: italic;
+}
+h3{
+    color: darkgreen;
+    font-style: italic;
+}
+h4{
+    color: darkorchid;
+    font-style: italic;
+}
+h5{
+    color:steelblue;
+    font-style: italic; 
+}
+h6{
+    color:greenyellow;
+    font-style: italic;
+}
